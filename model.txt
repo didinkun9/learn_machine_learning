@@ -1,0 +1,3 @@
+link model.pkl
+
+https://drive.google.com/file/d/1iN6JVw2N1wwffOvoOHfNd87jptCDlbkv/view?usp=drive_link
